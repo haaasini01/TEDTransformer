@@ -1,4 +1,4 @@
-# Transformer NMT
+# TED Transformer
 
 ## Project Overview
 
